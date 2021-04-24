@@ -1,6 +1,6 @@
 # Password Generator
 
-Very simple password generator, generates a secure 30 digit password, great for any application.
+Very simple password generator, generates a secure password with any length that you choose, great for any application.
 
 **How to Use**
 
