@@ -4,7 +4,7 @@ const rl = readline.createInterface({
     output: process.stdout,
 })
 rl.question("How long should the password be?", function(passLength){
-    console.log('Generating password with' + passLength + " characters...")
+    console.log('Generating password with ' + passLength + " characters...")
     function genPassword(length) {
         var result = '';
         var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXZYabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*{}()[]+_-';
