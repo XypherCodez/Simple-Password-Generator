@@ -17,6 +17,7 @@ Git https://git-scm.com/downloads
 *There will be a much more advanced version of this releasing shortly!*
 
 **Linux support**
+<br>
 Since .bat files do not work on linux, you can just run the main.js file directly instead of through the .bat file
 First you open up a terminal and type in the following command: `git clone https://github.com/XypherCodez/Simple-Password-Generator.git`
 what to do next is type in `cd Simple-Password-Generator` and finally you would type node main.js and boom the file is running. 
