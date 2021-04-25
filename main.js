@@ -22,7 +22,7 @@ rl.question("How long should the password be?", function(passLength) {
     let i = genPassword(passLength)
     console.log(i)
 
-    const credits = "Thank you for using my generator, I hope that you use this password to secure your accounts, and I wish that you star and fork the repository https://github.com/XypherCodez/Simple-Password-Generator"
+    const credits = "Thank you for using my generator,\nI hope that you use this password to secure your accounts,\nAnd I wish that you star and fork the repository https://github.com/XypherCodez/Simple-Password-Generator"
     console.log(credits)
 
     return process.exit()
