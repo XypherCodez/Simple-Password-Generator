@@ -3,7 +3,9 @@
 Very simple password generator, generates a secure password with any length that you choose, great for any application.
 
 **Requirements**
-Node.js LTS version is recommended https://nodejs.org/en/
+<br>
+<br>
+Node.js LTS version is recommended https://nodejs.org/en/<br>
 Git https://git-scm.com/downloads
 
 **How to Use**
